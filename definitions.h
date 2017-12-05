@@ -1,0 +1,15 @@
+/*
+ * definitions.h
+ */
+
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+
+#define DEFINITIONS_VARIABLE 333
+#define DEFINITIONS_FUNCTION 444
+#define DEFINITIONS_CONSTANT 555
+
+
+
+#endif //DEFINITIONS_H

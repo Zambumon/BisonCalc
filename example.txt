@@ -1,0 +1,13 @@
+x=2
+y=4
+z=x+y
+z*x*y
+t=8
+t-z
+sqrt(2)
+pi
+cos(pi/2)
+log(2024)
+exp(8)
+
+
